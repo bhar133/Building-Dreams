@@ -4,5 +4,10 @@ This website was created using MySQL, Javascript, React, Node, CSS, and HTML.
 
 We designed the product to function like a regular online store, with features like:
   - Multiple pages categorized by types of products
-  - Step by step creation process
-  - A saved cart that stays even if accidental refresh.
+  - Step-by-step creation process
+  - A saved cart that stays even if you accidentally refresh the page
+
+This website runs on a live server extension on VSCode:
+https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+
+Download the zip file and decompress it in your coding space.
